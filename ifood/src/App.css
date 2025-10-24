@@ -1,0 +1,62 @@
+.card{
+  width: 50%;
+  height: 50vh;
+  background: #ccc;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+img{
+  width: 25%;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+cabecario{
+  width: 10%;
+  margin-left: 10%;
+  background: #000;
+}
+h1{
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin-top: 50%;
+}
+h2{
+  font-size: 20px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin-left: 8%;
+}
+h3{
+  font-size: 20px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin-left: 8%;
+}
+#usuario{
+  width: 80%;
+  height: 20px;
+  margin-left: 8%;
+}
+#senha{
+  width: 80%;
+  height: 20px;
+  margin-left: 8%;
+}
+#checkbox{
+  margin-left: 8%;
+  margin-top: 5%;
+}
+p{
+  margin-left: 13%;
+  margin-top: -18px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+button{
+  width: 50%;
+  height: 30px;
+  margin-left: 25%;
+  margin-top: 5%;
+  background: #db0909;
+  color: #fff;
+  border: #fff;
+}
